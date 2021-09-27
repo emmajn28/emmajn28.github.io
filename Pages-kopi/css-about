@@ -1,0 +1,196 @@
+@charset "utf-8"
+/* CSS Document*/
+
+x{
+}
+
+body{
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+ul {
+  list-style: none;
+}
+a{
+  text-decoration:none;
+}
+section {
+  width: 100%;
+  height: 95vh;
+  background-image:url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Billeder/baggrund.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  background-color: white;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 1);
+  padding: 0px 5%;
+}
+nav ul{
+  display: flex;
+}
+nav ul li a {
+  margin: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(41, 41, 41);
+  font-size: 15px;
+  font-weight: 700;
+}
+.logo{
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-size: 22px;
+  font-weight: 800;
+}
+.active{
+  font-weight: bold;
+  color: rgb(59, 89, 152);
+}
+
+.contact-title{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    color: black;
+    transition: all 4s ease-out;
+    text-align: center;
+}
+
+.contact-title h1{
+    font-size: 30px;
+    line-height: 10px;
+}
+
+.contact-title h2{
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.cv-container{
+    width: 80%;
+    height: 440px;
+    background-color: black;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 1);
+    display: flex;
+    margin: -12% auto 20px auto;
+    position: relative;
+    justify-content: space-evenly;
+    align-items: center;
+    top: 200px;
+    bottom: 100px;
+  }
+  .cv-container img{
+    height: 60px;
+  }
+  .cv-text{
+    width: 650px;
+  }
+  .cv-text h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+  }
+  .cv-text h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .cv-text p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 25px;
+  }
+  
+  .cv-text button{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    outline: none;
+    margin: 0px 10px;
+    background-color: rgb(59, 89, 152);
+    color: white;
+  }
+
+footer{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: rgb(22, 22, 22);
+    margin-top: 400px;
+  }
+  footer p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+  
+  .social-icons a{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin: 20px 10px;
+    border-radius: 50%;
+  }
+  .social-icons{
+    display: flex;
+  }
+  copyright{
+   color: white ;
+   font-size: 10px;
+   position: absolute;
+   left: 50%;
+   bottom: 10px;
+   transform: translateX(-50%);
+   align-items: center;
+  }
+  
+  .social-icons i{
+    color: black;
+  }
+  .social-icons a:hover{
+    background-color: black;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 1);
+    transition: all ease 0.5s;
+  }
+  .social-icons a:hover i{
+    color: white;
+    transition: all ease 0.5s;
+  }
+  .a-social-b{
+    position: fixed;
+    top: 20%;
+    right: 0px;
+    transform:translateY(100%)
+  }
+  .a-social-b a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 55px;
+    height: 55px;
+    padding: 0px;
+    margin: 0px;
+    line-height: 0px;
+    background-color: rgb(59, 89, 152);
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.3);
+    color: black;
+  }
