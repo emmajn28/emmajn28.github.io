@@ -121,6 +121,7 @@ form .submit:hover{
     font-size: 18px;
     margin-bottom: 16px;
     border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .cv-container{
@@ -328,31 +329,31 @@ button:active{
     background:white;
   }
   .box-1{
-    background-image: url(file:///Users/emmajnoergaard/Desktop/kompetencer2.png);
+    background-image: url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Logo/kompetencer2.png?raw=true);
   }
   .box-2{
-    background-image: url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Logo/1.2.png);
+    background-image: url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Logo/1.2.png?raw=true);
   }
   .box-3{
-    background-image: url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Logo/3.1.png);
+    background-image: url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Logo/3.1.png?raw=true);
   }
   .box-4{
-    background-image: url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Logo/4.png);
+    background-image: url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Logo/4.png?raw=true);
   }
   .box-5{
-    background-image: url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Logo/5.png);
+    background-image: url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Logo/5.png?raw=true);
   }
   .box-6{
-    background-image: url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Logo/6.png);
+    background-image: url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Logo/6.png?raw=true);
   }
   .box-7{
-    background-image: url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Logo/7.png);
+    background-image: url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Logo/7.png?raw=true);
   }
   .box-8{
-    background-image: url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Logo/8.png);
+    background-image: url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Logo/8.png?raw=true);
   }
   .box-9{
-    background-image: url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Logo/9.png);
+    background-image: url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Logo/9.png?raw=true);
   }
 
   .box-1 span,
