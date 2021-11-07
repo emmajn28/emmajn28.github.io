@@ -19,7 +19,7 @@ a{
 section {
   width: 100%;
   height: 95vh;
-  background-image:url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Billeder/baggrund.jpg);
+  background-image:url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Billeder/baggrund.jpg?raw=true);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -196,10 +196,10 @@ button:active{
   background-image: url(file:///Users/emmajnoergaard/Desktop/kompetencer2.png);
 }
 .box-2{
-  background-image: url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Logo/1.2.png);
+  background-image: url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Logo/1.2.png?raw=true);
 }
 .box-3{
-  background-image: url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Logo/3.1.png);
+  background-image: url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Logo/3.1.png?raw=true);
 }
 .box-1 span,
 .box-2 span,
@@ -240,7 +240,7 @@ color: white;
 .contact{
   width: 100%;
   height: 280%;
-  background-image:url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Billeder/baggrund.jpg);
+  background-image:url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Billeder/baggrund.jpg?raw=true);
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
