@@ -199,7 +199,7 @@ form .submit:hover{
   }
 .contact{
     width: 100%;
-    background-image:url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Billeder/baggrund.jpg);
+    background-image:url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Billeder/baggrund.jpg?raw=true);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -233,7 +233,7 @@ button:active{
 }
 .contact1{
     width: 100%;
-    background-image:url(file:///Users/emmajnoergaard/Desktop/Hjemmeside/Grafik/Billeder/baggrund.jpg);
+    background-image:url(https://github.com/emmajn28/emmajn28.github.io/blob/main/Grafik/Billeder/baggrund.jpg?raw=true);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
