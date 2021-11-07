@@ -139,6 +139,7 @@ form .submit:hover{
   }
   .cv-text{
     position: absolute;
+    text-align: center;
   }
   .cv-text h1{
     color: white;
